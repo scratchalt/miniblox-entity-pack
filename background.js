@@ -35,4 +35,3 @@ chrome.declarativeNetRequest.updateDynamicRules(
       console.log("Rules updated successfully");
     }
   }
-);
