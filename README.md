@@ -1,6 +1,10 @@
 # miniblox-entity-pack
 
 Customizes Mobs in Miniblox.io✨
+A lil experiment i did and it only took 29 hours!
+
+Only modifies: Zombie, Zombie Cowman, Skeleton, Creeper.
+(fixing that soon)
 
 What this pack looks like:
 
