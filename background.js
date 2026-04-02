@@ -5,6 +5,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://t.novaskin.me/125eea6f8e0438b22ff7a2c6a40d050ce59da6ea477ea16df61dfc9ffa150471",
    "||miniblox.*textures/entity/creeper/creeper.png": "https://t.novaskin.me/197cf86b502c56de784b985f873af483613e0a4f22ca817ee93270e8a77bd20d",
   "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/scratchalt/file/main/ChatGPT%20Image%20Apr%201%2C%202026%2C%2005_58_07%20PM.png?token=GHSAT0AAAAAADZKIINRVMFRIO4PZOUNVU5W2ONWOAQ",
+  };
 
 let rules = [];
 let idx = 1;
