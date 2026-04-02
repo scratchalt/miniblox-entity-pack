@@ -20,7 +20,6 @@ for (const [src, dst] of Object.entries(URL_MAP)) {
     "condition": {
       "urlFilter": src,
       "resourceTypes": src.endsWith(".otf") ? ["font"] :
-    }
   });
 }
 
