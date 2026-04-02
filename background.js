@@ -5,7 +5,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://t.novaskin.me/125eea6f8e0438b22ff7a2c6a40d050ce59da6ea477ea16df61dfc9ffa150471",
   "||miniblox.*textures/entity/creeper/creeper.png": "https://t.novaskin.me/197cf86b502c56de784b985f873af483613e0a4f22ca817ee93270e8a77bd20d",
   "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/scratchalt/file/main/ChatGPT%20Image%20Apr%201%2C%202026%2C%2005_58_07%20PM.png?token=GHSAT0AAAAAADZKIINRVMFRIO4PZOUNVU5W2ONWOAQ"
-}; // <--- THIS WAS MISSING
+};
 
 let rules = [];
 let idx = 1;
@@ -20,17 +20,22 @@ for (const [src, dst] of Object.entries(URL_MAP)) {
     "condition": {
       "urlFilter": src,
       "resourceTypes": src.endsWith(".otf") ? ["font"] :
-
-chrome.declarativeNetRequest.updateDynamicRules(
-  {
-    addRules: rules,
-    // Note: You should specify which IDs to remove specifically if you want to clear 
-    // old rules, otherwise just use an empty array [] or a separate cleanup step.
-    removeRuleIds: rules.map(rule => rule.id) 
-  },
-  () => {
-    if (chrome.runtime.lastError) {
-      console.error("Error updating:", chrome.runtime.lastError);
-    } else {
-      console.log("Rules updated successfully");
     }
+  });
+}
+
+// Clear all existing dynamic rules first, then add the new ones
+chrome.declarativeNetRequest.getDynamicRules((oldRules) => {
+  const oldRuleIds = oldRules.map(rule => rule.id);
+  
+  chrome.declarativeNetRequest.updateDynamicRules({
+    removeRuleIds: oldRuleIds,
+    addRules: rules
+  }, () => {
+    if (chrome.runtime.lastError) {
+      console.error("Rules failed to load:", chrome.runtime.lastError.message);
+    } else {
+      console.log("Rules loaded successfully!");
+    }
+  });
+});
