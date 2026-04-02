@@ -2,14 +2,18 @@
   "manifest_version": 3,
   "name": "Miniblox Texture Swapper",
   "version": "1.0",
-  "description": "Swaps Miniblox assets dynamically",
+  "description": "Redirects Miniblox assets to custom textures",
+  
   "permissions": [
-    "declarativeNetRequest"
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
   ],
+
   "host_permissions": [
     "*://miniblox.io/*",
     "*://*.miniblox.io/*"
   ],
+
   "background": {
     "service_worker": "background.js"
   }
