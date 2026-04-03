@@ -19,6 +19,8 @@
 <img width="305" height="300" alt="Creeper" src="https://github.com/user-attachments/assets/3eb3d104-64df-4666-bbfe-3f2cdbb6f2dd" />
 <img width="232" height="293" alt="Zombie Cowman" src="https://github.com/user-attachments/assets/cd4954f7-d786-4d76-892f-27a23c3bbb42" />
 <img width="1349" height="621" alt="In-game preview" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
+<img width="1919" height="1079" alt="Cow" src="https://github.com/user-attachments/assets/afa2291d-53e5-4932-b588-176be947ad4e" />
+
 
 ## Installation
 
@@ -33,12 +35,13 @@
 
 ## Known Conflicts
 
-- **Does not work** with the Back2Basics texture pack created by Heythereu
+- **Does not work** with the Back2Basics texture pack
 - Other active texture packs may interfere with these textures
 
 ## Credits
 
 - Mob avatar textures: original owners on [Novaskin](https://novaskin.me)
+- README improved by [TheM1ddleM1n](https://github.com/TheM1ddleM1n)
 
 ## Contact
 
