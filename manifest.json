@@ -3,8 +3,8 @@
 
   "manifest_version": 3,
   "name": "Mob/Entity Textures Pack",
-  "version": "1.5",
-  "description": "swaps textures on some mobs",
+  "version": "1.6",
+  "description": "Swaps textures on most mobs!",
   "author": ["mochi_iris", "TheM1ddleM1n"],
   "background": {"service_worker": "background.js"},
   "icons": {
