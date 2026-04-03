@@ -2,9 +2,9 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Mob/Entity Textures Pack",
+  "name": "Entity Texture Pack",
   "version": "1.6",
-  "description": "Swaps textures on most mobs!",
+  "description": "Swaps textures on nearly every mob!",
   "author": ["mochi_iris", "TheM1ddleM1n"],
   "background": {"service_worker": "background.js"},
   "icons": {
