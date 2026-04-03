@@ -4,17 +4,18 @@
 
 ## Supported Mobs
 
-| Mob | Status |
-|---|---|
-| Zombie | ✅ |
-| Zombie Cowman | ✅ |
-| Skeleton | ✅ |
-| Creeper | ✅ |
-| Cow | ✅ |
-| Pig | ✅ |
-| Sheep | ✅ |
-| Spider | ✅ |
-| Chicken | ✅ |
+| Mob             | Status |
+|-----------------|--------|
+| Chicken         | ✅     |
+| Cow             | ✅     |
+| Creeper         | ✅     |
+| Ghast           | ✅     |
+| Pig             | ✅     |
+| Sheep           | ✅     |
+| Skeleton        | ✅     |
+| Spider          | ✅     |
+| Zombie          | ✅     |
+| Zombie Cowman   | ✅     |
 
 ## Preview
 
@@ -26,6 +27,7 @@
 <img width="1919" height="1079" alt="Chicken" src="https://github.com/user-attachments/assets/feafb0d1-96a0-45d6-8df0-23633b48ce0a" />
 <img width="1919" height="1079" alt="Pig" src="https://github.com/user-attachments/assets/c296020a-56bf-45f1-a27a-fc6794218fbb" />
 <img width="1919" height="1079" alt="Cow" src="https://github.com/user-attachments/assets/e6509648-6ddf-47b1-a2d0-33b3359e58d3" />
+<img width="1919" height="1079" alt="Ghast" src="https://github.com/user-attachments/assets/db49ca99-8f70-4908-a5d6-89c7fae63fb4" />
 <img width="1349" height="621" alt="In-game preview" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
 
 ## Installation
