@@ -18,8 +18,8 @@
 <img width="344" height="337" alt="Skeleton" src="https://github.com/user-attachments/assets/b126b7de-3094-4474-b065-c7d0ea0770d8" />
 <img width="305" height="300" alt="Creeper" src="https://github.com/user-attachments/assets/3eb3d104-64df-4666-bbfe-3f2cdbb6f2dd" />
 <img width="232" height="293" alt="Zombie Cowman" src="https://github.com/user-attachments/assets/cd4954f7-d786-4d76-892f-27a23c3bbb42" />
-<img width="1349" height="621" alt="In-game preview" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
 <img width="1919" height="1079" alt="Cow" src="https://github.com/user-attachments/assets/afa2291d-53e5-4932-b588-176be947ad4e" />
+<img width="1349" height="621" alt="In-game preview" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
 
 
 ## Installation
