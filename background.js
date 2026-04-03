@@ -9,6 +9,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/sheep/sheep.png": "https://t.novaskin.me/c76eec0b81b4f2f3f3e4b8bc81ad097ad59e06ef0bfcad3be6cdb862de4091a2",
   "||miniblox.*textures/entity/spider/spider.png": "https://t.novaskin.me/5399decde2bea8ca18b413ea3832773447fc32ed8cc22ce7f9bffcd6c381a74f",
   "||miniblox.*textures/entity/chicken/chicken.png": "https://t.novaskin.me/22c166eb5c1c07e2dc30ce30f393b252fe5943d7c9c5f648fcd036335c230747",
+  "||miniblox.*textures/entity/ghost/ghost.png": "https://t.novaskin.me/93dd9e2a6b60228acc62c70e418e5dbcd2a9b1353374ab3b95305a0201f42afb",
 };
 
 let rules = [];
