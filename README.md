@@ -25,6 +25,7 @@
 <img width="1919" height="1079" alt="Sheep" src="https://github.com/user-attachments/assets/c73b917e-b2f4-4961-9f7b-3ed38592f62d" />
 <img width="1919" height="1079" alt="Chicken" src="https://github.com/user-attachments/assets/feafb0d1-96a0-45d6-8df0-23633b48ce0a" />
 <img width="1919" height="1079" alt="Pig" src="https://github.com/user-attachments/assets/c296020a-56bf-45f1-a27a-fc6794218fbb" />
+<img width="1919" height="1079" alt="Cow" src="https://github.com/user-attachments/assets/e6509648-6ddf-47b1-a2d0-33b3359e58d3" />
 <img width="1349" height="621" alt="In-game preview" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
 
 ## Installation
