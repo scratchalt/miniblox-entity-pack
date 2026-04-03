@@ -3,8 +3,9 @@ const URL_MAP = {
   "||miniblox.*textures/entity/skeleton/skeleton.png": "https://t.novaskin.me/73b7a2afb6d85abf604f5ea0c19ba09a257c6a59999e807f95bd4c2dfc805c23",
   "||miniblox.*textures/entity/zombie/zombie.png": "https://t.novaskin.me/3eb264148ce5ab33b7f2d9a8cee7a046d09f2be5d66b492fc2f5ca8aa2f1e985",
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://t.novaskin.me/125eea6f8e0438b22ff7a2c6a40d050ce59da6ea477ea16df61dfc9ffa150471",
-   "||miniblox.*textures/entity/creeper/creeper.png": "https://t.novaskin.me/197cf86b502c56de784b985f873af483613e0a4f22ca817ee93270e8a77bd20d",
-  };
+  "||miniblox.*textures/entity/creeper/creeper.png": "https://t.novaskin.me/197cf86b502c56de784b985f873af483613e0a4f22ca817ee93270e8a77bd20d",
+  "||miniblox.*textures/entity/cow/cow.png": "https://t.novaskin.me/1b03bfd74adb4c351bf52a5536e313fd5a69485c73be711913b74563cfc4232a",
+};
 
 let rules = [];
 let idx = 1;
