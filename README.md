@@ -30,30 +30,31 @@
 <img width="1919" height="1079" alt="Ghast" src="https://github.com/user-attachments/assets/db49ca99-8f70-4908-a5d6-89c7fae63fb4" />
 <img width="1349" height="621" alt="In-game preview" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
 
-## Installation
+## How do I install this?
 
 1. Click the green **Code** button on this page, then select **Download ZIP**
 2. Extract the ZIP file somewhere on your computer
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable **Developer mode** using the toggle in the top-right corner
 5. Click **Load unpacked** (top-left) and select the extracted folder
-6. Open or refresh Miniblox, join a server, and spawn one of the supported mobs! ie. `/summon cow`
+6. Open/refresh Miniblox, join a server, and spawn one of the supported mobs! ie. `/summon cow`
 
 > If you see an error like *"couldn't find manifest"*, try selecting the folder again — it does work! 😊
 
-## Known Conflicts
+## Known Conflicts with other Texture Packs
 
-- **Does not work** with the Back2Basics texture pack
-- Other active texture packs may interfere with these textures
+- **This Extension does not work** with Back2Basics
+- Any other active texture packs may interfere with these textures
 
-## Credits
+## Credits + Authors
 
-- Mob avatar textures: original owners on [Novaskin](https://novaskin.me)
-- README improved by [TheM1ddleM1n](https://github.com/TheM1ddleM1n)
+- Mob avatar textures from original owners on [Novaskin](https://novaskin.me) 
+- README improved/Added more mobs by [TheM1ddleM1n](https://github.com/TheM1ddleM1n)
 
 ## Contact
 
 - 💬 Discord: `awesomecookiee679511`
 - 🎥 YouTube: [MochiMiniblox](https://youtube.com/@xxm0ch1_pyx3l.artzxx._yt)
+- Github - TheM1ddleM1n (on any miniblox repo ie. Waddle)
 
-Found a bug? Reach out on Discord or YouTube!
+Found a bug? Reach out on Discord, YouTube or Github!
