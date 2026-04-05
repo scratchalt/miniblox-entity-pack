@@ -3,7 +3,7 @@
 
   "manifest_version": 3,
   "name": "Entity Texture Pack",
-  "version": "1.6",
+  "version": "1.7",
   "description": "Swaps textures on nearly every mob (entity)!",
   "author": ["mochi_iris", "TheM1ddleM1n"],
   "background": {"service_worker": "background.js"},
