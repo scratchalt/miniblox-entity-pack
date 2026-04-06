@@ -55,6 +55,6 @@
 
 - 💬 Discord: `awesomecookiee679511`
 - 🎥 YouTube: [MochiMiniblox](https://youtube.com/@xxm0ch1_pyx3l.artzxx._yt)
-- Github - TheM1ddleM1n (on any miniblox repo ie. Waddle)
+- Github - TheM1ddleM1n
 
-Found a bug? Reach out on Discord, YouTube or Github!
+Found a bug? Reach out on Discord, YouTube or on Github!
