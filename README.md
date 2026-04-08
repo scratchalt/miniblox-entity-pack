@@ -1,6 +1,6 @@
 # miniblox-entity-pack
 
-✨ A Chrome extension that replaces entity textures in [Miniblox.io](https://miniblox.io) with custom entity skins!
+✨ A Chrome extension that replaces entity textures in [miniblox.io](https://miniblox.io) with custom entity skins!
 
 ## Supported Mobs
 
@@ -41,7 +41,7 @@
 
 > If you see an error like *"couldn't find manifest"*, try selecting the folder again — it does work! 😊
 
-## Known Conflicts with other Texture Packs
+## Known Conflicts
 
 - **This Extension does not work** with Back2Basics
 - Any other active texture packs may interfere with these textures
@@ -51,7 +51,7 @@
 - Mob avatar textures from original owners on [Novaskin](https://novaskin.me) 
 - README improved/Added more mobs by [TheM1ddleM1n](https://github.com/TheM1ddleM1n)
 
-## Contact
+## Contact Me
 
 - 💬 Discord: `awesomecookiee679511`
 - 🎥 YouTube: [MochiMiniblox](https://youtube.com/@xxm0ch1_pyx3l.artzxx._yt)
